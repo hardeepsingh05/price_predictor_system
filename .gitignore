@@ -1,0 +1,5 @@
+## ignore files
+.env
+.venv
+.vscode
+/data/
